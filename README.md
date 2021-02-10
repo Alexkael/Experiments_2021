@@ -1,6 +1,8 @@
 version:     
    python 3.7
+   
    tensorflow 1.13.1-gpu
+   
    keras 2.2.4
 
 We define Noise_Layer(noise_a) in core.py line: 139 - 176
